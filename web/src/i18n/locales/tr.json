@@ -1,0 +1,69 @@
+{
+  "common": {
+    "appName": "Adeasier",
+    "ok": "Tamam",
+    "cancel": "İptal",
+    "save": "Kaydet",
+    "continue": "Devam",
+    "close": "Kapat",
+    "loading": "Yükleniyor...",
+    "select": "Seç",
+    "show": "Göster",
+    "hide": "Gizle",
+    "comingSoon": "Yakında",
+    "errorTitle": "Hata",
+    "genericError": "Bir şeyler ters gitti. Lütfen tekrar deneyin."
+  },
+  "nav": {
+    "feed": "Akış",
+    "myListings": "İlanlarım",
+    "createListing": "Yeni İlan",
+    "deals": "Anlaşmalar",
+    "wallet": "Cüzdan",
+    "signIn": "Giriş Yap",
+    "signOut": "Çıkış Yap",
+    "register": "Kayıt Ol"
+  },
+  "roles": {
+    "brand": "Marka",
+    "creator": "İçerik Üretici"
+  },
+  "auth": {
+    "signIn": "Giriş Yap",
+    "signInSubtitle": "Anlaşma açmak ve ilanlarını yönetmek için giriş yap.",
+    "email": "E-posta",
+    "emailPlaceholder": "ornek@eposta.com",
+    "password": "Parola",
+    "passwordPlaceholder": "••••••••",
+    "displayName": "Görünen Ad",
+    "displayNamePlaceholder": "Adın veya marka adın",
+    "role": "Hesap Türü",
+    "rolePlaceholder": "Hesap türünü seç",
+    "niche": "Alan / Niş",
+    "nichePlaceholder": "örn. fitness, güzellik, oyun",
+    "register": "Kayıt Ol",
+    "registerTitle": "Hesabını oluştur",
+    "registerSubtitle": "Adeasier'a marka veya içerik üretici olarak katıl.",
+    "newHere": "Yeni misin? ",
+    "createAccount": "Hesap Oluştur",
+    "alreadyHaveAccount": "Zaten hesabın var mı? ",
+    "loginFailed": "E-posta veya parola hatalı.",
+    "registerError": "Kayıt başarısız. Lütfen tekrar deneyin.",
+    "errors": {
+      "requiredEmail": "E-posta gerekli",
+      "invalidEmail": "Geçersiz e-posta adresi",
+      "requiredPassword": "Parola gerekli",
+      "passwordMin": "Parola en az 6 karakter olmalı",
+      "requiredDisplayName": "Görünen ad gerekli",
+      "requiredRole": "Lütfen hesap türü seç"
+    }
+  },
+  "placeholder": {
+    "title": "{{section}}",
+    "body": "Bu ekran sonraki adımlarda gelecek."
+  },
+  "notFound": {
+    "title": "Sayfa bulunamadı",
+    "back": "Akışa dön"
+  }
+}
